@@ -1,0 +1,37 @@
+Database
+    Customers
+        namePrefix
+        firstName
+        middleName
+        lastName
+        birthDate
+        birthMonth
+        birthYear
+        occupation
+        residenceNo
+        residenceName
+        residenceStreet
+        residenceCity
+        residencePinCode
+        residenceState
+
+    Policies
+        policyNo
+        customerId
+        manufactureYear
+        make
+        model
+        idv
+        registrationNo
+        engineNo
+        chassisNo
+        cc
+        seatingCapacity
+        registrationAuthority
+        policyStartDate
+        policyStartMonth
+        policyStartYear
+        policyEndDate
+        policyEndMonth
+        policyEndYear
+        policyDuration
