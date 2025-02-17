@@ -1,6 +1,6 @@
 [Read a brief description of the project including screenshots here](https://github.com/athkarandikar/vehicle-insurance-management-system/blob/main/Vehicle%20Insurance%20Management%20System.pdf)
 
-The project is a 1064-line good quality code vehicle insurance management system that can be used by insurance agents to manage their customers and their policies. The system has many options to begin with.
+The project is a 1064-line vehicle insurance management system written in C++ that can be used by insurance agents to manage their customers and their policies. The system has many options to begin with.
 
 Files created will be stored in directory “./Database” which in turn contains 2 directories – “./Database/Customers” & “./Database/Policies”.
 
